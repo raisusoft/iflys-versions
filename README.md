@@ -1,1 +1,2 @@
 # iflys-versions
+raisusoftの作っているOSもどきのiflysのリポジトリです
